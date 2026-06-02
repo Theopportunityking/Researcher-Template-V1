@@ -100,6 +100,7 @@ window into the methodology.
 
 <img width="721" height="546" alt="image" src="https://github.com/user-attachments/assets/b7c3be80-865e-415d-84a6-96001be9bb7c" />
 
+<img width="721" height="552" alt="image" src="https://github.com/user-attachments/assets/726ae7a0-9ce3-4d03-b618-4105aa57a59f" />
 
 **What this demonstrates:**
 
