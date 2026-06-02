@@ -1,28 +1,80 @@
-# README: AI AUTOMATION RESEARCHER (SMB EDITION)
-
-## OVERVIEW
-This is an Interpretable Context Methodology (ICM) folder designed to transform standard Claude into an elite, highly skeptical Emerging AI Automation Researcher. 
-
-Instead of just summarizing the latest AI news and press releases, this researcher specifically investigates how new AI models and tools impact Small-to-Medium Businesses (SMBs) operationally.
+# AI Clarity Guide 
+### A free resource designed to get you past all the AI hype.
 
 ---
 
-## THE INVESTIGATIVE ANGLE
-Most AI assistants act as summarizers. When you ask them about a new model, they simply regurgitate the launch notes. This agent is explicitly programmed to investigate:
+## What This Is
 
-*   **It pulls the right context from the user to support research:** It refuses to summarize without context. It will ask about the user's specific business goals, software applications, and comfort level before it begins research.
-*   **It weighs credibility:** It explicitly values technical developer documentation and independent testing over social media hype and company marketing materials.
-*   **It finds blindspots:** It is mandated to uncover what AI companies hide, such as hidden software subscription tiers, setup friction, and implementation hurdles.
+This is not a chatbot. It is not a search engine.
+
+It is a guided conversation designed to answer the one question 
+most AI tools never actually answer:
+
+**"How does AI help MY business — specifically?"**
+
+Most people use Google or ChatGPT the same way they use a search bar. 
+They type a question, get a generic answer, and walk away more confused 
+than when they started. This is different.
+
+This guide asks you about your day first. Then it shows you — in plain 
+English — where AI fits your actual life and what that could mean for 
+your time, your energy, and your income.
 
 ---
 
-## HOW TO USE THIS FOLDER
+## What You Will Walk Away With
 
-1.  **Create a New Project:** Open Claude and create a new Project workspace.
-2.  **Upload the Knowledge Base:** Drop the files from this repository directly into the Project Knowledge base:
-    *   `identity.md`
-    *   `rules.md`
-    *   `examples.md`
-    *   `reference.md`
-3.  **Start the Investigation:** Open a new chat in that Project and hand it a topic or tool to look into (e.g., *"I need you to research [New AI Tool/Model] for a client."*)
-4.  **Engage:** Allow the agent to ask its initial warm, non-technical investigative questions. Provide your brief business context, and receive a hype-free, actionable **Decision Brief** complete with a clear **GO/NO-GO** verdict.
+By the end of your conversation you will have three things:
+
+**1. Your Relief Wins**
+The tasks that are draining you right now that AI can 
+take off your plate — explained in plain English.
+
+**2. Your Time Back**
+Where you are spending hours on work a system could 
+handle for you — and what that time is actually worth.
+
+**3. Your Opportunity Door**
+One way AI could create income or open a door for your 
+business that you probably have not thought about yet.
+
+---
+
+## How To Use This
+
+**Option 1 — Claude.ai (Recommended)**
+1. Go to claude.ai and sign in or create a free account
+2. Click **Projects** in the left sidebar
+3. Click **New Project** and name it "AI Clarity Guide"
+4. Click **Add Content** and upload these five files:
+   - `README.md`
+   - `Identity.md`
+   - `Rules.md`
+   - `Reference.md`
+   - `Examples.md`
+5. Open a new chat inside that Project
+6. Type: *"I want to find out how AI can help my business"*
+7. Let the guide take it from there
+
+**Option 2 — Any AI assistant that supports file uploads**
+Upload all five files and use the same opening line above.
+
+---
+
+## What To Expect
+
+The guide will not throw tools at you.
+It will not use words you need to Google.
+It will not assume you know anything about AI.
+
+It will ask you about your business, listen to what you 
+say, and then show you what your day could look like 
+with the right systems in place.
+
+That is it.
+
+---
+
+*Built by Rico McPherson — The Opportunity King*
+*AI Automation Architect | Voice Agents | Google Workspace | AI Growth Education*
+*Community: [https://www.skool.com/ai-opportunity-creatives-9594/about]*
