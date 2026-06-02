@@ -113,6 +113,113 @@ This folder is the foundation.
 
 ---
 
+## The Roadmap — Where This Goes Next
+
+The five files in this folder are Layer 1 of a four-layer product.
+For anyone who is builder-minded, here is what the full vision looks like
+and what it takes to build it.
+
+---
+
+### Layer 2 — Google Workspace Integration
+
+The one-time conversation becomes a persistent business tool.
+
+- **Google Drive** stores every clarity session as a structured report
+  the user can return to and build on
+- **Google Docs** generates the three-part clarity summary as a
+  shareable document — ready to show a business partner or team member
+- **Gmail** delivers the session summary and a suggested next step
+  automatically after every conversation
+- **NotebookLM** builds a knowledge base from each session so returning
+  users never start over — the guide already knows their business
+- **Google Calendar** surfaces a direct booking link at the natural
+  end of every session for users ready to take the next step
+
+The conversation becomes a record.
+The record becomes a reference.
+The reference becomes the foundation for everything built next.
+
+---
+
+### Layer 3 — Audio and Video Walkthroughs
+
+The clarity summary becomes content the user can consume,
+share, and act on in multiple formats.
+
+**Audio**
+The three-part summary converts into a narrated audio brief.
+The business owner who is always on the go listens in the car
+instead of reading a document. Delivered in a calm, plain-spoken
+voice matched to the tone of the guide.
+
+**Video**
+A short explainer video generated from the session —
+combining the user's situation, the identified opportunity,
+and a visual breakdown of what the solution would look like
+in their business. Built for sharing beyond the person
+who had the conversation.
+
+Most SMB owners do not act on text alone.
+Audio and video meet them in the format they actually
+consume information — and make the output shareable.
+
+---
+
+### Layer 4 — Native Voice Mode
+
+The tool stops feeling like software and starts feeling
+like a conversation with a trusted advisor.
+
+No typing. No interface navigation.
+The guide asks questions out loud and listens for answers.
+The business owner speaks the way they would to a friend
+who happens to know a lot about AI.
+
+The session ends with the clarity summary read back to them
+before it saves automatically to their Drive.
+
+Voice mode removes the last wall between the methodology
+and the person who needs it most.
+
+---
+
+### What It Takes to Build All Four Layers
+
+Each layer is a buildable module. Here is what the full
+stack requires:
+
+| Layer | What You Need |
+|---|---|
+| Layer 1 — ICM Foundation | These five files. Already free. |
+| Layer 2 — Google Workspace | Workspace OAuth, Drive API, NotebookLM setup |
+| Layer 3 — Audio and Video | ElevenLabs account, voice profile, video generation pipeline |
+| Layer 4 — Voice Mode | ElevenLabs Conversational AI 2.0, real-time audio routing |
+| Deployment | Firebase, Netlify, or similar hosting environment |
+| Orchestration | The layer that connects all four pieces into one experience |
+
+The methodology is already here and it is free.
+Building the full product is a different conversation.
+
+---
+
+### For Builders
+
+If you read this and started thinking about how to deploy
+this for your own audience or your clients —
+that is exactly what the paid builder community is for.
+
+The community covers the full stack:
+how to go from a methodology like this one to a working,
+deployed product that runs for real users.
+
+---
+
+*Everything in this folder is free to use, adapt, and build on.
+Attribution is appreciated but not required.
+The only ask: if you build something with it, share what you learned.*
+---
+
 
 *Want to see this built for your community or client base?*
 *AI Automation Architect | Voice Agents | Google Workspace | AI Growth Education*
